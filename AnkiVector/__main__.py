@@ -72,11 +72,11 @@ hit /help to Find my list of available commands 🕹*
 
 buttons = [
     [
-        InlineKeyboardButton(text="📌Updates Channel", url="https://t.me/ankivectorUpdates"),
-        InlineKeyboardButton(text="🖲 Support Group", url="https://t.me/AnkiSupport_Official"),
+        InlineKeyboardButton(text="📌Updates Channel", url="https://t.me/luna_officials"),
+        InlineKeyboardButton(text="🖲 Support Group", url="https://t.me/lunasupportz"),
     ],
     [
-        InlineKeyboardButton(text="📜 Source Code", url="https://www.youtube.com/watch?v=fXXEcAkWAFU"),
+        InlineKeyboardButton(text="📜 fed join", url="https://t.me/tamilchating_fed"),
         InlineKeyboardButton(text="❔ Help", callback_data="help_back"),
     ],
     [
